@@ -1,2 +1,7 @@
 # delaTorre_JASA2019
-de la Torre A, Valderrama J, Segura JC, Alvarez IM. Matrix-based formulation of the iterative randomized stimulation and averaging method for recording evoked potentials. Journal of the Acoustical Society of America (2019) 146, 4545-4556. doi: 10.1121/1.5139639.
+Manuscript and supplementary materials for "de la Torre et al. (2019)".
+
+This repository consists of 
+1. [PDF] "delaTorre2019_JASA_Manuscript": Manuscript.
+2. [PDF] "delaTorre2019_JASA_SuppPub1": Supplementary materials of the publication
+3. [ZIP] "delaTorre2019_JASA_SuppPub2": Supplementary materials of the publication - Matlab/Octave code that implements the methodologies and runs simulations
